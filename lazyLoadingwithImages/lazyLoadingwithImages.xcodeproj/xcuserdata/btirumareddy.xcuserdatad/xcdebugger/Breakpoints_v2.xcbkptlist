@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8005CE94-CDB6-4EB4-9ED5-5785EC9467F5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38E071A1-B078-4BA9-9891-3A27C4EEDB03"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lazyLoadingwithImages/QueryService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getDataWith(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6759B2D2-E239-489C-8ECD-347AB36F13D7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lazyLoadingwithImages/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1EFF6BA-35E8-4AA1-8EC5-617A1862F63A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lazyLoadingwithImages/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "tableView(tableView:willDisplayCell:forRowAtIndexPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6971E6C8-EC66-48E9-9FC6-A6D610BAE9F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lazyLoadingwithImages/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "tableView(tableView:willDisplayCell:forRowAtIndexPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C36F5DE7-C0F2-4D45-9194-A5969D906D79"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lazyLoadingwithImages/Service/QueryService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getDataWith(url:limit:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C36F5DE7-C0F2-4D45-9194-A5969D906D79 - ad8ef1f54864ebf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lazyLoadingwithImages.QueryService.getDataWith(url: Swift.String, limit: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;lazyLoadingwithImages.GetDataModel&gt;&gt;, Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "lazyLoadingwithImages"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/btirumareddy/Downloads/lazyimageload-master/lazyLoadingwithImages/lazyLoadingwithImages/Service/QueryService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "2588">
+               </Location>
+               <Location
+                  uuid = "C36F5DE7-C0F2-4D45-9194-A5969D906D79 - ac5e82b31cc6b91a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in lazyLoadingwithImages.QueryService.getDataWith(url: Swift.String, limit: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;lazyLoadingwithImages.GetDataModel&gt;&gt;, Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "lazyLoadingwithImages"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/btirumareddy/Downloads/lazyimageload-master/lazyLoadingwithImages/lazyLoadingwithImages/Service/QueryService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "C36F5DE7-C0F2-4D45-9194-A5969D906D79 - 6ef22b1b455b53f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "$defer #1 () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in lazyLoadingwithImages.QueryService.getDataWith(url: Swift.String, limit: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;lazyLoadingwithImages.GetDataModel&gt;&gt;, Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "lazyLoadingwithImages"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/btirumareddy/Downloads/lazyimageload-master/lazyLoadingwithImages/lazyLoadingwithImages/Service/QueryService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "45">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
